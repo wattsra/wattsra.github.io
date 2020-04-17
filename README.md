@@ -2,9 +2,19 @@
 
 This is a direct fork of the template below. I have of course amended it to detail my own portfolio. But the work on the original template is not mind and should be understood below.
 
+
 If you would like to hear any more about any of my projects then please send me a message and I will be happy to work with you.
 
+
+Please also visit my website [here](https://rob-watts.com). 
+
+Or my LinkedIn page [here](https://www.linkedin.com/in/robertawatts/).
+
+
 ___
+
+
+
 
 ## Developer Portfolio Landing Page Template
 
