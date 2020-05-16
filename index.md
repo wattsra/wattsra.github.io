@@ -4,8 +4,13 @@
 
 ### Latest Projects
 
-[Snake Written with Pygame](https://github.com/wattsra/snake)
+[Snake game written using Pygame](https://github.com/wattsra/snake)
 <img src="https://github.com/wattsra/snake/raw/master/Screenshots/Gameplay2.png?raw=true"/>
+
+---
+
+[Encrypted Password Manager written with PyQt5,Cryptography and stored in an SQLite file](https://github.com/wattsra/passstore)
+<img src="https://github.com/wattsra/passstore/raw/master/screenshots/loadPasswordlist.png?raw=true"/>
 
 ---
 
