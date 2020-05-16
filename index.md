@@ -2,18 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Latest Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Snake Written with Pygame](https://github.com/wattsra/snake)
+<img src="https://github.com/wattsra/snake/raw/master/Screenshots/Gameplay2.png?raw=true"/>
 
 ---
 
