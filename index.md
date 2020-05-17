@@ -4,23 +4,23 @@
 
 ### Latest Projects
 
-[Snake game written using Pygame](https://github.com/wattsra/snake)
-<img src="https://github.com/wattsra/snake/raw/master/Screenshots/Gameplay2.png?raw=true"/>
+####  [Snake game written using Pygame](https://github.com/wattsra/snake)
+<img src="https://github.com/wattsra/snake/blob/master/Screenshots/Gameplay3.png?raw=true"/>
 
 ---
 
-[Encrypted Password Manager written with PyQt5,Cryptography and stored in an SQLite file](https://github.com/wattsra/passstore)
+#### [Encrypted Password Manager written with PyQt5,Cryptography and stored in an SQLite file](https://github.com/wattsra/passstore)
 <img src="https://github.com/wattsra/passstore/raw/master/screenshots/loadPasswordlist.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Other deployed projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [SmokePing Dashboard](https://oss.oetiker.ch/smokeping/index.en.html)
+<img src="https://github.com/wattsra/wattsra.github.io/blob/master/images/SmokePing1.jpg?raw=true"/>
+
+- [24 hours js speed](https://github.com/wattsra/speed-logger)
+<img src="https://github.com/wattsra/wattsra.github.io/blob/master/images/SmokePing1.jpg?raw=true"/>
 
 ---
 
