@@ -17,10 +17,10 @@
 ### Other deployed projects
 
 - [SmokePing Dashboard](https://oss.oetiker.ch/smokeping/index.en.html)
-<img src="https://github.com/wattsra/wattsra.github.io/blob/master/images/SmokePing1.jpg?raw=true"/>
+<img src="https://github.com/wattsra/wattsra.github.io/blob/master/images/SmokePing1.png?raw=true"/>
 
 - [24 hours js speed](https://github.com/wattsra/speed-logger)
-<img src="https://github.com/wattsra/wattsra.github.io/blob/master/images/SmokePing1.jpg?raw=true"/>
+<img src="https://github.com/wattsra/wattsra.github.io/blob/master/images/Speedtest1.jpeg?raw=true"/>
 
 ---
 
